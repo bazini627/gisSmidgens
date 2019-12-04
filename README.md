@@ -1,5 +1,5 @@
-# <center>Smidgens of GIS</center>
-## <center>Repo for bits and pieces of helpful GIS commands that I'm bound to forget and then spend forever Goggling for</center>
+# Smidgens of GIS
+## Repo for bits and pieces of helpful GIS commands that I'm bound to forget and then spend forever Goggling for
 
 ### Traverse directory structure  with `wget` to only download certain files
 `wget -r -A zip -nd --no-parent -P data/ https://rmgsc.cr.usgs.gov/outgoing/GeoMAC/current_year_fire_data/California/Bald/`  
